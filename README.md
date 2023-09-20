@@ -1,1 +1,1 @@
-# Sports Data Valley: Cycling Data Analytics Project
+# Sports Data Valley: Data Analytics Project
